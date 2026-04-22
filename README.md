@@ -21,3 +21,6 @@ Aprendizados:
 - Criação de uma experiência de usuário simples com IA
 - Tratamento de erros e respostas inconsistentes de APIs
 - Organização de projeto voltado para produto (não só script)
+
+Demonstração:
+- https://github.com/francaugusto/ai_movie_assistant/blob/62724e32aa1da586cafee3f5950951b55effdc1d/ai_film_assistant.mov
